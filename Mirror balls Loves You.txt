@@ -64,7 +64,7 @@ the next is ...
 (mirrorballs love you) [vocodered]
 the next stage is ...
 (mirrorballs love you)
-tne next stage is yours!
+tne next stage is yours! [3 回だと到達しきれないとすると is for.../is for you みたいに分ける? でも yours の方が気分に合ってる気が…]
 
 [Part?: この Part はサビ後? 悩み中]
 remember
@@ -86,6 +86,82 @@ mirrorballs always watching you
 
 
 [最後だけ一度だけ出てくる Part: slowly faded-out refrain][vocoder]
+tne next stage is ...
+tne next stage is ...
+[fade out 中一度だけ東洋 show の "ネクスト ステージ" になる。聞こえるか聞こえないかくらいで]
+tne next stage is ...
+tne next stage is ...
+
+
+
+
+--------------------------------------
+サビの解釈を変えてみるパターン
+
+-----------------------
+
+[Opening (サビ前 Part の別 arrange: 弦楽器の tremolo で thrilling に]
+
+[原案: 複数方向から飛ぶ ribbons, 舞い散る paper snow, 拍手、暗転、静寂]
+[こうして mirrorball という単語から始まるのもありだが…] Mirrorballs' making light ricocheting [別案' laser beam sparkling/Rays of diffuse reflection/]
+
+A million lights explode
+Mirrorballs diffuse them 
+Ribbons flutter / Paper snow flutter
+尾を引く applause
+
+[Part A-1: cold open 後は一旦静かというかすっきりした音数少なめの感じで始まりたい]
+時々君は足首をくじいたりアキレス腱を切る [この block は脚韻のしやすさで並べていけば良い]
+balance を崩して stage から足を踏み外すかも知れない
+時には摘発に居合わせるかもしれない
+後輩の引退を見送ることもあるだろう
+
+[Part B]
+それでも君は make up を始める (beautifully に or terribly に)
+髪を set して, wig を被って
+舞台袖に向かう
+[↑ と ↓ の Part は cross over させられると良いかも知れない。袖から前景の盛り上がりを見る感じで。今のままだと全体的に長尺になってしまいそうなのもあるし…]
+
+[サビ前]
+A million lights explode
+Mirrorballs diffuse them 
+Ribbons flutter / Paper snow flutter
+尾を引く applause
+
+[ここからをサビとしてみる: kick 4 つ打ち、electronica っぽく。だけど腰高な orchestration ありで。up tempo 気味だけど踊りやすい範囲で]
+暗転
+ribbon/paper snow が stage に溶ける
+smoke の吹き出る音
+動き始める回転盆の motor 音
+beat の足音に耳を澄ませて [足音SEの crescendo] /準備完了のブザーを鳴らして[ブザーSE and 手拍子ふたつ]
+(mirrorballs love you) [vocodered] the next is ...
+(mirrorballs love you) [vocodered] the next stage is ...
+(mirrorballs love you) the next stage is yours! [3 回だと到達しきれないとすると is for.../is for you みたいに分ける? でも yours の方が気分に合ってる気が…]
+[next stage is waiting/next stage is waiting for you と繋げるのもありか]
+
+[Part?: この Part はサビ後? 悩み中 囁きっぽい chorus の感じ? back では間奏っぽい orchestration と pad 系の synth かな?]
+remember
+scalesmirrorball scales in your costume
+mirrorballs' under your ears [ここは on your nails や in your heart を chorus にしてしまうのもあり。長いからそうした方が良さげ]
+mirrorballs' on your nails
+mirrorballs' in your heart
+mirrorballs' everywhere
+mirrorballs always watching you
+
+
+[Part C/middle 8]
+君は stage から次の stage へと登っていく。
+俺は mirrorball の月食の下に避く wallflower
+震えて手拍子も出来ない
+出来ることは君が通り過ぎるのをただ見ているだけ
+
+[サビ前]
+...
+[サビ]
+...
+
+[最後だけ一度だけ出てくる Part: slowly faded-out refrain][vocoder]
+[ここはサビ後 Part に重なる感じに出来ると良いかも知れない]
 tne next stage is ...
 tne next stage is ...
 [fade out 中一度だけ東洋 show の "ネクスト ステージ" になる。聞こえるか聞こえないかくらいで]
